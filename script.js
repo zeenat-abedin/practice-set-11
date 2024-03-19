@@ -23,4 +23,4 @@ let a = new Complex(2, 4)
 let b = new Complex(1, 6)
 
 a.add(b)
-console.log(a.real, a.imaginary); 
+console.log(`${a.real}, ${a.imaginary}`); 
